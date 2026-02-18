@@ -1,0 +1,13 @@
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\bin\Debug\AUTOCLIKER.exe.config
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\bin\Debug\AUTOCLIKER.exe
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\bin\Debug\AUTOCLIKER.pdb
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\obj\Debug\AUTOCLIKER.csproj.AssemblyReference.cache
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\obj\Debug\AUTOCLIKER.Properties.Resources.resources
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\obj\Debug\AUTOCLIKER.csproj.GenerateResource.cache
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\obj\Debug\AUTOCLIKER.csproj.CoreCompileInputs.cache
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\obj\Debug\AUTOCLIKER.exe
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\obj\Debug\AUTOCLIKER.pdb
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\bin\Debug\Guna.UI2.dll
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\obj\Debug\AUTOCLIKER.exe.config
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\obj\Debug\AUTOCLIKER.Main.resources
+C:\Users\Memecraft\Desktop\Proyectos\Proyectos comprados\SENSI NARU OPTIMIZER SENSI\AUTOCLIKER\AUTOCLIKER\obj\Debug\AUTOCLIKER.csproj.Up2Date
